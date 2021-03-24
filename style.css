@@ -1,0 +1,321 @@
+@font-face {
+  font-family: Comfortaa;
+  src: url("./Comfortaa/Comfortaa-VariableFont_wght.ttf");
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  margin: auto;
+  margin-top: 20px;
+}
+@media  (max-width: 576px){
+  header{
+    width: 90%;
+  }
+}
+
+body{
+  font-family: Comfortaa;
+  background-color: #F0F5F8;
+}
+
+.logo {
+  width: 175px ;
+  height: 175px;
+}
+@media  (max-width: 576px){
+  .logo{
+    width: 90px;
+    height: 90px;
+  }
+}
+.LogoTitle {
+  font-size: 25px;
+  text-align: center;
+  margin-top: 130px;
+  color: #6294B0;
+}
+@media  (max-width: 576px){
+  .LogoTitle{
+    font-size: 12px;
+    margin-top: 80px;
+  }
+}
+.contacts{
+  font-size: 14px;
+}
+@media  (max-width: 576px){
+  .contacts{
+    font-size: 10px;
+  }
+}
+.location{
+  font-size: 14px;
+}
+@media  (max-width: 576px){
+  .location{
+    font-size: 10px;
+  }
+}
+.menushka{
+  width: 400px;
+  margin: 73px auto;
+}
+@media  (max-width: 576px){
+  .menushka{
+    width: 300px;
+    margin: 73px auto;
+  }
+}
+.menu{
+  display: flex;
+  justify-content: center;
+  border: 1px solid #6294B0;
+  border-radius: 80px;
+  background-color: #6294B0;
+  margin-bottom:  24px;
+  font-size: 37px;
+  color: white;
+}
+.menu > p {
+  margin: 5px 0;
+}
+@media  (max-width: 576px){
+  .menu{
+    font-size: 30px;
+  }
+}
+
+.MENU{
+  font-size: 40px;
+  display: flex;
+  justify-content: center;
+}
+.MENU > p {
+  margin: 5px 0;
+}
+
+.razdelMenu{
+  margin: auto;
+  width: 100%;
+  justify-content: space-between;
+  display: flex;
+  }
+
+  @media  (max-width: 576px){
+    .razdelMenu{
+      display: block;
+    }
+  }
+
+ 
+.menuPosition{
+  border-radius: 10px;
+  border: 5px solid #6294B0;
+  background-color: #6294B0;
+  padding: 0 5px;
+  text-align: right;
+}
+
+.nameRazdelMenu{
+  font-size: 25px;
+  border: 3px solid #6294B0;
+  border-radius: 20px;
+  margin-top: 15px;
+  margin-bottom: 8px;
+  display: inline-block;
+}
+.nameRazdelMenu > p {
+  margin: 1px 4px;
+}
+
+.foodPic{
+  height: 320px;
+  width: 300px;
+  border-radius: 10px;
+}
+@media  (max-width: 576px){
+   .foodPic{
+    width: 100%;
+    height: 100%;
+  }
+}
+
+
+.nameOfMenuPosition{
+  font-size: 18px;
+  color: #F0F5F8;
+  margin-top: 4px;
+  margin-bottom: 4px;
+  display: flex;
+  justify-content: space-between;
+}
+@media  (max-width: 576px){
+  .nameOfMenuPosition{
+    font-size: 14px
+  }
+}
+.showFull{
+  font-size: 12px;
+  color: #F0F5F8;
+  border: 3px solid #F0F5F8;
+  border-radius: 20px;
+  padding: 2px;
+  display: inline-block;
+}
+.showFull > p {
+  margin: 1px 6px;
+}
+
+.showMore{
+  font-size: 14px;
+  border: 3px solid  #6294B0;
+  border-radius: 20px;
+  padding: 2px;
+  display: inline-block;
+  margin-top: 5px ;
+}
+.showMore > p {
+  margin: 1px 6px;
+}
+
+.NEWS{
+  font-size: 40px;
+  display: flex;
+  justify-content: center;
+  margin-top: 90px;
+  margin-bottom: 54px ;
+}
+.NEWS > p {
+  margin: 5px 0;
+}
+
+.news{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  }
+
+.photoNews{
+  height: 605px;
+  width: 456px;
+}
+
+.textNews{
+  font-size: 18px;
+  width: 569px;
+  text-align: center;
+}
+.textNews > p {
+  margin: 0 10px ;
+}
+
+.ZAVEDENIA{
+  font-size: 40px;
+  display: flex;
+  justify-content: center;
+  margin-top: 90px;
+  margin-bottom: 30px ;
+}
+.ZAVEDENIA > p {
+  margin: 5px 0;
+}
+
+.zavedenia{
+text-align: center;
+width: 60%;
+margin: auto;
+border: 6px solid  #6294B0;
+border-radius: 20px;
+padding: 10px;
+}
+
+.zavedeniaText{
+font-size: 18px;
+margin-bottom: 10px;
+}
+
+.nameZavedenia{
+font-size: 30px;
+}
+
+.dostavkaBlock{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 30px;
+  }
+
+.photoDostavka{
+  height: 605px;
+  width: 456px;
+}
+
+.textDostavka{
+  font-size: 18px;
+  width: 569px;
+  text-align: center;
+}
+.textDostavka > p {
+  margin: 0 10px ;
+}
+
+.contacti{
+  justify-content: space-between;
+  display: flex;
+  margin: auto;
+  width: 1000px;
+  font-size: 14px;
+}
+@media  (max-width: 576px){
+  .contacti{
+    width: 550px;
+    font-size: 10px;
+  }
+}
+
+.call{
+  display: flex;
+}
+.callLogo{
+  width: 40px;
+  height: 40px;
+}
+.callText{
+  font-size:16px;
+  margin-left: 5px;
+}
+@media  (max-width: 576px){
+  .callText{
+    font-size: 12px;
+  }
+}
+
+.inst{
+  display: flex;
+}
+.instLogo{
+  width: 40px;
+  height: 40px;
+}
+.instText{
+  font-size:16px;
+  margin-left:  5px;
+}
+@media  (max-width: 576px){
+  .instText{
+    font-size: 12px;
+  }
+}
+
+
+.menuBlock{
+  text-align: left;
+  width: 75%;
+  margin: auto;
+}
+
+.MORE{
+  text-align: right;
+}
