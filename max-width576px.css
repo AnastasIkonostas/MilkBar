@@ -7,18 +7,20 @@
       display: flex;
       flex-direction: column-reverse;
       width: 90%;
-      margin: auto;
+      margin:  auto;
     }
     .logotip{
       display: flex;
       justify-content: space-between;
       align-items: center;
+      margin-top: 20px;
     }
     .info{
       width: 100%;
       font-size: 9px;
       flex-direction: column-reverse;
       line-height: 14px;
+      margin-top:10px;
     }
     .contacts{
       display: flex;
@@ -97,7 +99,7 @@
     display: none;
   }
   .contactiMOBILE{
-    width: 80%;
+    width: 90%;
     font-size: 11px;
   }
   .callText{
@@ -115,4 +117,43 @@
   .call{
     align-items: center;
   }
+  }
+
+
+@media only screen and (max-width: 404px){
+  .contacts{
+    font-size: 8px;  
+  }
+  .location{
+    font-size: 8px;
+  }
+  .logo {
+    width: 90px ;
+    height: 90px;
+  }
+  .LogoTitle {
+    font-size: 14px;
+    margin: 0;
+  }
+  .menu{
+    font-size: 15px;
+  }
+  .contactiMOBILE{
+    font-size: 10px;
+  }
+  .callText{
+    font-size: 11px;
+  }
+  .instText{
+    font-size: 11px;
+  }
+  .callLogo{
+    width: 25px;
+    height: 25px;
+  }
+  .instLogo{
+    width: 25px;
+    height: 25px;
+  }
+
   }
