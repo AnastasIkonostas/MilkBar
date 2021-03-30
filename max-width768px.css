@@ -1,0 +1,174 @@
+@media only screen and (max-width: 768px){
+    header {
+      width: 90%;
+      margin-top: 20px;
+    }
+    .contacts{
+      font-size: 10px;
+    }
+    .location{
+      font-size: 10px;
+    }
+    .logo {
+      width: 120px ;
+      height: 120px;
+    }
+    .LogoTitle {
+      font-size: 13px;
+      margin-top: 100px;
+    }
+  
+    .menushka{
+      margin: 50px auto;
+    }
+    .menu{
+      border-radius: 80px;
+      margin-bottom:  16px;
+      font-size: 22px;
+      box-sizing: border-box;
+    }
+    .menu > p {
+      margin: 3px 0;
+    }
+  
+    .MENU{
+      font-size: 35px;
+    }
+    .nameRazdelMenu{
+      font-size: 20px;
+    }
+    .menuPosition{
+      border: 3px solid #6294B0;
+      padding: 0 3px;
+      width: 45%;
+    }
+    .nameOfMenuPosition{
+      font-size: 16px;
+    }
+    .showFull{
+      font-size: 12px;
+      border: 2px solid #F0F5F8;
+    }
+    .showMore{
+      font-size: 14px;
+      border: 2px solid #6294B0;
+    }
+  
+    #BabyVika{
+      display: none;
+    }
+    #BananaSplit{
+      display: none;
+    }
+    #PastramiSandwich{
+      display: none;
+    }
+    #BurgerBecon{
+      display: none;
+    }
+  
+  .NEWS{
+    font-size: 35px;
+    margin: 40px 0;
+  }
+  .news{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin: auto;
+  }
+  .photoNews{
+    width: 100%;
+  }
+  .textNews{
+    font-size: 16px;
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .ZAVEDENIA{
+    font-size: 35px;
+    margin: 40px 0;
+  }
+  .zavedenia{
+    border: 5px solid  #6294B0;
+    width: 80%;
+    }
+  .zavedeniaText{
+    font-size: 16px;
+  }
+  .nameZavedenia{
+    font-size: 22px;
+  }
+      
+  .dostavkaBlock{
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+  }
+  .photoDostavka{
+    width: 100%;
+  }
+  .textDostavka{
+    font-size: 16px;
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+  }
+  #Dostavka2{
+    flex-direction: column-reverse;
+  }
+  .contacti{
+    display: none;
+  }
+  .contactiMOBILE{
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    font-size: 12px;
+    margin: auto;
+  }
+  .first{
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;
+    align-items: flex-end;
+  }
+  .second{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-top: 10px;
+  }
+  .third{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-top: 10px;
+  }
+  .call{
+    display: flex;
+  }
+  .callLogo{
+    width: 30px;
+    height: 30px;
+  }
+  .callText{
+    font-size:13px;
+    margin-left: 5px;
+  }
+  .inst{
+    display: flex;
+  }
+  .instLogo{
+    width: 30px;
+    height: 30px;
+  }
+  .instText{
+    font-size:13px;
+    margin-left:  5px;
+  }
+  }
+  

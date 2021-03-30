@@ -1,0 +1,118 @@
+
+@media only screen and (max-width: 576px){
+    header{
+      display: none;
+    }
+    .headerMOBILE {
+      display: flex;
+      flex-direction: column-reverse;
+      width: 90%;
+      margin: auto;
+    }
+    .logotip{
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .info{
+      width: 100%;
+      font-size: 9px;
+      flex-direction: column-reverse;
+      line-height: 14px;
+    }
+    .contacts{
+      display: flex;
+      justify-content: space-between;
+    }
+    .location{
+      display: flex;
+      justify-content: space-between;
+    }
+    .logo {
+      width: 100px ;
+      height: 100px;
+    }
+    .LogoTitle {
+      font-size: 16px;
+      margin: 0;
+    }
+  
+    
+    .menushka{
+      margin: 30px auto;
+      width: 40%;
+    }
+    .menu{
+      border-radius: 80px;
+      margin-bottom:  16px;
+      font-size: 18px;
+      box-sizing: border-box;
+    }
+    .menu > p {
+      margin: 2px 0;
+    }
+    .menuBlock{
+    text-align: left;
+    width: 90%;
+    padding: 0;
+    margin: auto;
+    }
+    .MENU{
+      font-size: 25px;
+    }
+    .nameRazdelMenu{
+      font-size: 20px;
+    }
+    .razdelMenu{
+      width: 100%;
+      }
+    .menuPosition{
+      width: 100%;
+    }
+  
+    #BigCookie{
+      display: none;
+    }
+    #Whoopiecookie{
+      display: none;
+    }
+    #AvocadoTost{
+      display: none;
+    }
+    #Papperoni{
+      display: none;
+    }
+  .NEWS{
+    font-size: 25px;
+    margin: 30px 0;
+  }
+  .ZAVEDENIA{
+    font-size: 25px;
+    margin: 30px 0;
+  }
+  .nameZavedenia{
+    font-size: 20px;
+  }
+  .contacti{
+    display: none;
+  }
+  .contactiMOBILE{
+    width: 80%;
+    font-size: 11px;
+  }
+  .callText{
+    font-size:12px;
+  }
+  .instText{
+    font-size:12px;
+  }
+  .text{
+    display: none;
+  }
+  .inst{
+    align-items: center;
+  }
+  .call{
+    align-items: center;
+  }
+  }

@@ -1,0 +1,94 @@
+@media only screen and (max-width: 992px){
+    .contacts{
+      font-size: 11px;
+    }
+    .location{
+      font-size: 11px;
+    }
+    .logo {
+      width: 150px ;
+      height: 150px;
+    }
+    .LogoTitle {
+      font-size: 15px;
+      margin-top: 130px;
+    }
+    .nameRazdelMenu{
+      font-size: 20px;
+    }
+    .menuPosition{
+      border: 3px solid #6294B0;
+      padding: 0 3px;
+    }
+    .nameOfMenuPosition{
+      font-size: 14px;
+    }
+    .showFull{
+      font-size: 10px;
+      border: 2px solid #F0F5F8;
+    }
+    .showMore{
+      font-size: 12px;
+      border: 2px solid #6294B0;
+    }
+    .textNews{
+      font-size: 12px;
+    }
+    .textDostavka{
+      font-size: 12px;
+    }
+    .contacti{
+      font-size: 11px;
+      width: 85%;
+    }
+    .callText{
+      font-size:13px;
+    }
+    .instText{
+      font-size:13px;
+    }
+  
+    .menushka{
+      margin: 50px auto;
+    }
+    .menu{
+      border-radius: 80px;
+      margin-bottom:  20px;
+      font-size: 25px;
+      box-sizing: border-box;
+    }
+    .menu > p {
+      margin: 3px 0;
+    }
+    .ZAVEDENIA{
+      font-size: 35px;
+      margin-top: 70px;
+      margin-bottom: 25px ;
+    }
+    .NEWS{
+      font-size: 35px;
+      margin-top: 70px;
+      margin-bottom: 45px ;
+    }
+    .MENU{
+      font-size: 35px;
+    }
+    .zavedenia{
+      border: 5px solid  #6294B0;
+      }
+      .zavedeniaText{
+      font-size: 16px;
+      }
+      .nameZavedenia{
+      font-size: 25px;
+      }
+      .instLogo{
+        width: 35px;
+        height: 35px;
+      }
+      .callLogo{
+        width: 35px;
+        height: 35px;
+      }
+      
+  }

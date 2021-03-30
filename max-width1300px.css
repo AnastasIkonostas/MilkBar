@@ -1,0 +1,47 @@
+@media only screen and (max-width: 1300px){
+    .contacts{
+      font-size: 14px;
+    }
+    .location{
+      font-size: 14px;
+    }
+    .logo {
+      width: 180px ;
+      height: 180px;
+    }
+    .LogoTitle {
+      font-size: 20px;
+    }
+    .nameRazdelMenu{
+      font-size: 25px;
+    }
+    .menuPosition{
+      border: 5px solid #6294B0;
+    }
+    .nameOfMenuPosition{
+      font-size: 18px;
+    }
+    .showFull{
+      font-size: 12px;
+    }
+    .showMore{
+      font-size: 14px;
+    }
+    .textNews{
+      font-size: 16px;
+    }
+    .textDostavka{
+      font-size: 16px;
+    }
+    .contacti{
+      font-size: 14px;
+      width: 85%;
+    }
+    .callText{
+      font-size:16px;
+    }
+    .instText{
+      font-size:16px;
+    }
+  
+  }
