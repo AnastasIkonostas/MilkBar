@@ -170,5 +170,26 @@
     font-size:13px;
     margin-left:  5px;
   }
+
+
+
+  .adress{
+    font-size: 35px;
+    margin: 25px auto;
   }
+  .map{
+    height: 280px;
+  }
+  iframe{
+    border: 7px solid #6294B0;
+    border-radius: 8px;
+  }
+  .firstPAGE{
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;
+    align-items: flex-start;
+  }
+}
+
   

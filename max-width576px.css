@@ -13,7 +13,8 @@
       display: flex;
       justify-content: space-between;
       align-items: center;
-      margin-top: 20px;
+      margin: 20px auto 0 auto;
+      width: 80%;
     }
     .info{
       width: 100%;
@@ -117,7 +118,28 @@
   .call{
     align-items: center;
   }
+  .adress{
+    font-size: 25px;
+    width: 80%;
+    margin: 20px auto;
   }
+  .map{
+    height: 200px;
+  }
+  iframe{
+    border: 5px solid #6294B0;
+    border-radius: 6px;
+  }
+  .firstPAGE{
+    flex-direction: column;
+    width: 90%;
+    margin: auto;
+  }
+  }
+
+
+  
+
 
 
 @media only screen and (max-width: 404px){
@@ -155,5 +177,23 @@
     width: 25px;
     height: 25px;
   }
+  .adress{
+    font-size: 25px;
+    width: 80%;
+    margin: 20px auto;
+  }
+  .map{
+    height: 140px;
+  }
+  iframe{
+    border: 3px solid #6294B0;
+    border-radius: 5px;
+  }
+  .adress{
+    font-size: 20px;
+    margin: 15px auto;
+  }
+
+
 
   }

@@ -91,4 +91,22 @@
         height: 35px;
       }
       
+
+
+
+      .adress{
+        font-size: 40px;
+        width: 80%;
+        margin: 30px auto;
+       
+      }
+      .map{
+        height: 400px;
+        
+       
+      }
+      iframe{
+        border: 8px solid #6294B0;
+        border-radius: 9px;
+      }
   }

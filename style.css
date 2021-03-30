@@ -270,6 +270,26 @@ font-size: 30px;
 }
 
 
+.adress{
+  font-size: 50px;
+  text-align: center;
+  margin: 40px auto;
+  width: 90%;
+}
+.map{
+  width: 70%;
+  height: 500px;
+  display: flex;
+  align-items: center;
+  margin: auto;
+ 
+}
+iframe{
+  width: 100%;
+  height: 100%;
+  border: 10px solid #6294B0;
+  background-color: #6294B0;
+  border-radius: 10px;
 
-
+}
 
