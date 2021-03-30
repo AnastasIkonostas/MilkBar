@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="max-width1300px.css">
+  <link rel="stylesheet" href="max-width992px.css">
+  <link rel="stylesheet" href="max-width768px.css">
+  <link rel="stylesheet" href="max-width576px.css">
+</head>
+<body class="page">
+<header>
+<img class = "logo" src = "img/Logo.png">
+<p class = "LogoTitle"><a href = "milk.html">MILK BAR </a> <br> CAKES, SHAKES & MORE</p>  
+<div class = "contacts"> <p>НАШИ КОНТАКТЫ:</p> <p>+380950388628</p> <p>+380506473894</p><p>+380639602185</p><p>Instagram</p></div>  
+<div class = "location"> <p> МЫ НАХОДИМСЯ:</p> <p><a href = "ShotaRustavelli.html">ШОТА РУСТАВЕЛЛИ, 16</a></p> <p>“KYEVFOODMARKET”</p><p><a href = "ZYM.html">ЦУМ КРЕЩАТИК, 38</a></p></div> 
+</header>
+
+<div class = "headerMOBILE">
+<div class = "logotip">
+<img class = "logo" src = "img/Logo.png">
+<p class = "LogoTitle"> MILK BAR <br> CAKES, SHAKES & MORE</p>  
+</div>
+<div class = "info">
+<div class = "contacts"> <span>+380950388628</span> <span>+380506473894</span><span>+380639602185</span><span>Instagram</span></div>  
+<div class = "location"> <span>ШОТА РУСТАВЕЛЛИ, 16</span> <span>“KYEVFOODMARKET”</span><span>ЦУМ КРЕЩАТИК, 38</span></div> 
+</div>
+</div>
+
+<p class = "adress">MILK BAR в KYIV FOOD MARKET</p>
+
+<div class = "menushka">
+<div class = "menu"><p>НОВОСТИ</p> </div>
+<div class = "menu"><p>ГАЛЕРЕЯ</p> </div>
+<div class = "menu"><p>КАРТА</p> </div>
+<div class = "menu"><p>КОНТАКТЫ</p> </div>
+</div>
+
+
+<div class = "NEWS"><p>НАШИ НОВОСТИ</p></div>
+
+<div class = "dostavkaBlock">
+<img class = "photoDostavka" src = "img/photo_2021-03-30 22.54.09.jpeg">
+<div class = "textDostavka"><p>Коробочки с фаджем или домашним печеньем, виски-пудинг, пряники, баночки солёной карамели, меренги, бриттл, ёлки брауни и многое другое уже на самой большой витрине среди всех Milk Bar. 
+    Это означает, что выбор - больше, очередь - меньше, а лучшее время позаботится о подарках - уже наступило! 🎁🎄<br><br>24.12.20</p>
+</div>
+</div>
+<div id = "Dostavka2" class = "dostavkaBlock">
+<div class = "textDostavka"><p>Pumpkin is watching you....👀🎃<br><br>
+    Наконец-то витрины Milk Bar’a становятся страшненькими!<br><br>
+    Десерты наблюдают за вами, а некоторые могут и вовсе укусить! Берегите себя и берите вилку побольше.<br><br>
+    В преддверии самого любимого праздника, мы сделали для вас обновлённое меню.<br><br>
+    Pumpkin Cappuccino - главный напиток этой осени💥<br><br>
+    Готовим его с пряным тыквенным сиропом и подаем с тыквенной чипсой. ❤<br><br>
+    28.10.20</p>
+</div>
+<img class = "photoDostavka" src = "img/photo_2021-03-30 22.54.19.jpeg">
+</div>
+<div class = "dostavkaBlock">
+<img class = "photoDostavka" src = "img/photo_2021-03-30 22.54.31.jpeg">
+<div class = "textDostavka"><p>Бежим за happy_paw!🐾<br><br>
+    Уже в следующую субботу и воскресенье наши ребята примут участие в 11м Kyiv City Marathon и преодолеют дистанции в 4,2 км, 10 км и 21 км и мы страшно гордимся ими.<br><br>
+    Наша миссия с помощью спорта привлечь внимание к проблеме и собрать 15 тысяч гривен на корм для наших четвероногих друзей.<br><br>
+    Чтобы поддержать проект, переходите по ссылке в наших сторис в Instagram, а еще ребят можно поддержать, громко пошумев в комментариях.🥳<br><br>
+    20.10.20</p>
+</div>
+</div>
+
+<div class = "ZAVEDENIA"><p>КАРТА</p></div>
+<div class = "map">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d317.6388537666356!2d30.51917098657831!3d50.43903624986506!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40d4cefef5178e53%3A0xadeb9e28254fc17f!2sMilk%20Bar!5e0!3m2!1sru!2sua!4v1617126921116!5m2!1sru!2sua"  ></iframe>
+</div>
+    <div class = "ZAVEDENIA"><p>КОНТАКТЫ</p></div>
+
+    <div class ="contacti">
+    <p><b>ЦУМ</b><br><br>МЫ РАБОТАЕМ:<br><br>ПН-ПТ:10:00-22:00<br><br>СБ-ВС: 10:00-00:00</p>
+    <p>НАШИ КОНТАКТЫ:<br><br>+380950386723<br>+380506445896<br>+380639602165</p>
+    <div class="first"> 
+    <div class="call"> 
+        <img class = "callLogo" src = "img/w512h5121380376664MetroUIPhoneAlt.png">
+        <div class = "callText"> <p> Заказать обратный звонок</p></div>
+    </div>
+    <div class="inst"> 
+        <img class = "instLogo" src = "img/768px-Instagram_icon.webp">
+        <div class = "instText"> <p>Instagram</p></div>
+    </div>
+    </div>
+    </div>
+  
+
+  <div class ="contactiMOBILE">
+    <div class="firstPAGE"> 
+    <p><b>ЦУМ</b><br><br>МЫ РАБОТАЕМ:<br><br>ПН-ПТ:<br>10:00-22:00<br><br>СБ-ВС:<br>10:00-00:00</p>
+    <p>НАШИ КОНТАКТЫ:<br><br>+380950386723<br>+380506445896<br>+380639602165</p>
+    <div><div class="call"> 
+      <img class = "callLogo" src = "img/w512h5121380376664MetroUIPhoneAlt.png">
+      <div class = "callText"> <p> Заказать обратный звонок</p></div>
+      </div>
+      <div class="inst"> 
+      <img class = "instLogo" src = "img/768px-Instagram_icon.webp">
+      <div class = "instText"> <p>Instagram</p></div>
+      </div>
+      </div>
+    </div>
+
+   
+
+    
+  </div>
+
+  </body>
+  </html>
